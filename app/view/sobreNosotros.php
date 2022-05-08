@@ -1,0 +1,7 @@
+<?php include_once("base.php");
+
+print "<h2 class='text-center my-2'>"."Tienda Virutal"."</h2>";
+print "<div class='alert text-center fw-bold succes mt-3'>";
+print "<img src='img/foto.png' class='img-responsive float-end'";
+print "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo sint labore distinctio molestiae qui quibusdam necessitatibus eaque. Quisquam nesciunt ullam sunt odit odio voluptas eius repudiandae magni deserunt sit beatae, ab suscipit nemo eaque sint accusamus quod ratione! Ipsum, dicta a vel expedita omnis doloremque veniam commodi modi magni porro unde, incidunt dignissimos pariatur quibusdam autem nihil fugiat ex tempora ducimus? Tempora amet minus atque pariatur ducimus veniam, voluptatibus eligendi non quis aliquid at soluta temporibus reiciendis totam, neque exercitationem libero eum tenetur odio enim? Porro hic magni voluptates consectetur dolores voluptate enim suscipit ipsam culpa iste, quas adipisci quod iusto officiis est rem? Eius beatae mollitia explicabo magni minima facere voluptas atque, quidem laborum autem molestias fugit temporibus commodi soluta? Corporis, magnam eum. Totam officiis sequi omnis minima corporis suscipit, eos similique, culpa nobis architecto nemo quo reprehenderit, recusandae impedit labore aliquid eveniet dolorem.</p>";
+print "</div>";
